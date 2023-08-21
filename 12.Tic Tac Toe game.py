@@ -1,5 +1,4 @@
-print("K.Narasimha Prasad")
-print("192111091")
+
 def sum(a,b,c):
     return a+b+c
 def printBoard(xState , zState):
