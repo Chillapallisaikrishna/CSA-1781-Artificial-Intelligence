@@ -1,5 +1,3 @@
-print("K.Narasimha Prasad")
-print("192111091")
 MAX, MIN = 1000, -1000
 
 def minimax(depth, nodeIndex, maximizingPlayer,
