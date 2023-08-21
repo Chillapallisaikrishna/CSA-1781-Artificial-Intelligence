@@ -1,5 +1,3 @@
-print("K.narasimha Prasad")
-print("192111091")
 import math
 
 def minimax (curDepth, nodeIndex,
